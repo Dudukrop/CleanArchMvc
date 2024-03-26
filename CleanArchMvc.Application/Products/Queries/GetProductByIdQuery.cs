@@ -1,14 +1,13 @@
 ﻿using CleanArchMvc.Domain.Entities;
 using MediatR;
 
-namespace CleanArchMvc.Application.Products.Queries
+namespace CleanArchMvc.Application.Products.Queries;
+
+public class GetProductByIdQuery : IRequest<Product>
 {
-    public class GetProductByIdQuery : IRequest<Product>
+    public int Id { get; set; }
+    public GetProductByIdQuery(int id)
     {
-        public int Id { get; set; }
-        public GetProductByIdQuery(int id)
-        {
-            Id = id;
-        }
+        Id = id;
     }
 }
