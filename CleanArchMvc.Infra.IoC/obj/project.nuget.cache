@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iiQqkdPuOjkXbUtOTyCsdx7JZHfc3yNS11XCeIBJql3GCpdeQQATuVlRY5f6Jt6TkSJ3p0c1P9gYpbQtehhwVQ==",
+  "dgSpecHash": "oJ/u+ewDCcaCDdgMxWIBaQzW4coRbmJnn/HH7dIeRkLrGkIfB9+WrE8Al6YtrCKqJ8Fe1OD5BV9qnG8CzLnyMg==",
   "success": true,
-  "projectFilePath": "C:\\curso_cleanarqvc\\CleanArchMvc.Infra.IoC\\CleanArchMvc.Infra.IoC.csproj",
+  "projectFilePath": "C:\\_CleanArchitecture_AspNet\\__curso\\4_Camada_Domain\\CleanArchMvc_Domain_Tests\\CleanArchMvc\\CleanArchMvc.Infra.IoC\\CleanArchMvc.Infra.IoC.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
