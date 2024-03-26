@@ -1,9 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "Bon/U9jIvECsG5V5B29jkFznqbEYZah2qQ4ReLZtbpbk+AiFjyMDhnyMlcd5TXGdUk88fyWifoH4uYWyZAJZ7w==",
+  "dgSpecHash": "g3Rot9MxuSPXv4r0936R4mREmmL0eBOHHaXEonBWXM5lOSXZsrtOJlluxrSDId9ysiA9oNT6KdAJKM2XSdeMKw==",
   "success": true,
   "projectFilePath": "C:\\Programação\\GitHubProjects\\CleanArchMvc\\CleanArchMvc.Application\\CleanArchMvc.Application.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Eduardo\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\Eduardo\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
+    "C:\\Users\\Eduardo\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Eduardo\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512",
     "C:\\Users\\Eduardo\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
     "C:\\Users\\Eduardo\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
     "C:\\Users\\Eduardo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
